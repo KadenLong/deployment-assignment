@@ -16,6 +16,9 @@ app.get('/css', (req, res) => {
 app.get('/reset', (req, res) => {
     res.sendFile(path.join(__dirname, '../reset.css'))
 })
+app.get('/logo', (req, res) => {
+    res.sendFile(path.join(__dirname, '../ad73e17b7a1d4b64a043cbc89064def0.png'))
+})
 const port = process.env.PORT || 4005
 
 app.listen(port, () => {
