@@ -9,6 +9,6 @@ app.get('/', (req, res) => {
 
 const port = process.env.PORT || 4005
 
-app.listen(4005, () => {
+app.listen(port, () => {
     console.log(`Listening on port ${port}`)}
     )
