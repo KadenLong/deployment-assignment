@@ -1,0 +1,10 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    height: 15vh;
+    background-color: gray;
+    border: 2px rgba(255, 255, 0, 0.808) solid;
+    border-radius: 15px;
+}
