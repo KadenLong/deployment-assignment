@@ -10,7 +10,8 @@
     box-sizing: border-box;
 }
 
-img{
-    width: auto;
-    height: auto;
+#logo{
+    background-image: url('ad73e17b7a1d4b64a043cbc89064def0.png');
+    width: 200px;
+    height: 200px;
 }
