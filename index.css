@@ -9,3 +9,8 @@
     border-radius: 15px;
     box-sizing: border-box;
 }
+
+img{
+    width: auto;
+    height: auto;
+}
